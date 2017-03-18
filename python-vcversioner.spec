@@ -3,7 +3,6 @@
 %bcond_without	python2 # CPython 2.x module
 %bcond_without	python3 # CPython 3.x module
 
-%define 	module	template
 Summary:	Use version control tags to discover version numbers
 Summary(pl.UTF-8):	Użycie znaczników kontroli wersji do wykrywania numerów wersji
 Name:		python-vcversioner
