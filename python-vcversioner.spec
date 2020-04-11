@@ -10,8 +10,8 @@ Version:	2.16.0.0
 Release:	5
 License:	ISC
 Group:		Libraries/Python
-#Source0Download: https://pypi.python.org/simple/vcversioner/
-Source0:	https://pypi.python.org/packages/source/v/vcversioner/vcversioner-%{version}.tar.gz
+#Source0Download: https://pypi.org/simple/vcversioner/
+Source0:	https://files.pythonhosted.org/packages/source/v/vcversioner/vcversioner-%{version}.tar.gz
 # Source0-md5:	aab6ef5e0cf8614a1b1140ed5b7f107d
 URL:		https://github.com/habnabit/vcversioner
 BuildRequires:	rpm-pythonprov
