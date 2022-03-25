@@ -7,7 +7,7 @@ Summary:	Use version control tags to discover version numbers
 Summary(pl.UTF-8):	Użycie znaczników kontroli wersji do wykrywania numerów wersji
 Name:		python-vcversioner
 Version:	2.16.0.0
-Release:	6
+Release:	7
 License:	ISC
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/vcversioner/
